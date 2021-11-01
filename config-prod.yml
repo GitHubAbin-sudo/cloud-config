@@ -1,1 +1,2 @@
-is：prod.yml
+is：
+  [prod.yml]
