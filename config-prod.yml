@@ -1,2 +1,3 @@
-is：
-  [prod.yml]
+config:
+ info: infoMsg
+ error: errorMSg
